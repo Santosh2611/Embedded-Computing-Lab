@@ -1,2 +1,1 @@
-# Embedded-Computing-Lab
-Demonstration of the mini-lab component activities conducted for the course of Embedded Computing Lab (19CCE283).
+Demonstration of the mini-lab component activities conducted for the course of Embedded Computing Lab (19CCE283). It develops hands-on experience in interfacing external peripherals with a given microcontroller and implements MSP43x Internal Peripheral configuration and programming. Also, it designs and develops MSP43x-based solutions for Embedded Control.
